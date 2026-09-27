@@ -1,6 +1,6 @@
 # ACCRUE MCP Server
 
-[![Glama MCP Server](https://glama.ai/mcp/servers/accruecc/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/accruecc/mcp-server)
+[![Glama MCP Server](https://glama.ai/mcp/servers/ACCRUE1/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/ACCRUE1/mcp-server)
 
 Non-custodial USDC yield platform. Live stablecoin yield data for AI agents.
 
